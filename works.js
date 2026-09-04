@@ -64,25 +64,6 @@ const WORKS = [
     "preview": ""
   },
   {
-    "id": "song-magic",
-    "title": "《Magic》",
-    "theme": "音乐",
-    "tags": [
-      "个人"
-    ],
-    "sites": [
-      "real",
-      "muchen"
-    ],
-    "year": "2026",
-    "role": "创作 / 作词",
-    "summary": "一首写给特定人的歌，用旋律把说不清的心意唱出来。",
-    "tagline": "【待填充·温情文案】",
-    "story": "【待填充·温情文案】",
-    "cover": "🎵",
-    "preview": ""
-  },
-  {
     "id": "song-xiangyang",
     "title": "《向阳一起长大》",
     "theme": "音乐",
@@ -99,25 +80,6 @@ const WORKS = [
     "tagline": "【待填充·温情文案】",
     "story": "【待填充·温情文案】",
     "cover": "🎶",
-    "preview": ""
-  },
-  {
-    "id": "song-one-year",
-    "title": "《认识你一年了》",
-    "theme": "音乐",
-    "tags": [
-      "个人"
-    ],
-    "sites": [
-      "real",
-      "muchen"
-    ],
-    "year": "2026",
-    "role": "创作 / 作词",
-    "summary": "一周年纪念歌曲，把一整年的相处写成旋律。",
-    "tagline": "【待填充·温情文案】",
-    "story": "【待填充·温情文案】",
-    "cover": "💿",
     "preview": ""
   },
   {
